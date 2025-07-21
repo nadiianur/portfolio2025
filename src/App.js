@@ -8,7 +8,7 @@ export default function App() {
     <Router>
       <Routes>
         <Route path="/profile2025" element={<Home />} />
-        <Route path="/organizational-experience" element={<OrganizationalExperience />} />
+        <Route path="/profile2025/organizational-experience/" element={<OrganizationalExperience />} />
       </Routes>
     </Router>
   );
