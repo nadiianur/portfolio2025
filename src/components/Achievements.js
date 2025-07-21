@@ -7,21 +7,21 @@ const achievements = [
     subtitle: "The National Academic Essay Week (PENA) - 2023",
     description:
       'I presented an innovation titled "Activism Now: Igniting the Transformation of Activism through Technological Solutions for Sustainable Development." I was awarded Best Paper among participants from across Indonesia.',
-    certificate: "/certificates/pena-best-paper.pdf",
+    certificate: "/profile2025/certificates/pena-best-paper.pdf",
   },
   {
     title: "TOP 25 BUSINESS PLAN MAHASISWA TERBAIK LPDP",
     subtitle: "Organized by LPDP - 2021",
     description:
       'My team and I created a business plan for diabetes-friendly cookies called "Last\'A Kuykis". We were selected as one of the Top 25 Business Plans.',
-    certificate: "/certificates/lpdp-business-plan.pdf",
+    certificate: "/profile2025/certificates/lpdp-business-plan.pdf",
   },
   {
     title: "TOP GRADUATE FACULTY OF INFORMATION TECHNOLOGY",
     subtitle: "Andalas University - 2025",
     description:
       "Graduated as the top student of the Faculty of Information Technology with a GPA of 3.92, demonstrating consistent academic excellence and active contribution throughout my study period.",
-    certificate: "/certificates/lulusan-terbaik.pdf",
+    certificate: "/profile2025/certificates/lulusan-terbaik.pdf",
   },
 ];
 
