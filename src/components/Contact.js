@@ -13,7 +13,7 @@ export default function Contact() {
         Feel free to reach out through any of the platforms below!
       </p>
 
-      <div className="flex flex-col md:flex-row justify-center gap-8 text-lg text-gray-800">
+      <div className="flex flex-col md:flex-row justify-center gap-8 sm:text-lg md:text-xl lg:text-base z-10 text-gray-800">
         <div className="flex items-center gap-3 justify-center">
           <FaEnvelope className="text-[#4b4848]" />
           <span>nadianursaida88@gmail.com</span>

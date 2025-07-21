@@ -119,7 +119,7 @@ export default function Projects() {
       <div className="flex items-center justify-between w-full relative min-h-[500px]">
         <button
           onClick={handleLeft}
-          className="text-[#dbdad7] hover:scale-110 transition absolute left-0 top-1/2 -translate-y-1/2 z-20 ms-12"
+          className="text-[#dbdad7] hover:scale-110 transition absolute top-1/2 -translate-y-1/2 z-20 left-4 sm:left-10"
         >
           <FaArrowLeft size={28} />
         </button>
@@ -213,7 +213,7 @@ export default function Projects() {
         </div>
         <button
           onClick={handleRight}
-          className="text-[#dbdad7] hover:scale-110 transition absolute right-0 top-1/2 -translate-y-1/2 z-20 me-12"
+          className="text-[#dbdad7] hover:scale-110 transition absolute top-1/2 -translate-y-1/2 z-20 right-4 sm:right-10"
         >
           <FaArrowRight size={28} />
         </button>
