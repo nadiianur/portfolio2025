@@ -30,7 +30,7 @@ const OrganizationalExperience = () => {
   return (
     <section>
         <div className="bg-[#f7f7f7] py-4 px-6 flex flex-wrap gap-10 justify-center sticky top-0 z-50 shadow-md">
-            <Link to="/profile2025" className="inline-block transition-all duration-300 hover:scale-105">
+            <Link to="/" className="inline-block transition-all duration-300 hover:scale-105">
                 <img src={logo} alt="Back to Home" className="w-20 h-10 object-contain" />
             </Link>
             <a href="#gdsc" className="text-[#b8798c] hover:text-[#4b4848] font-semibold">GDSC</a>
@@ -191,7 +191,7 @@ const OrganizationalExperience = () => {
             </h2>
             <img src={galery} alt="Content Planning" className="rounded-lg px-24 mt-8" />
         <div className="text-center mt-16">
-            <Link to="/profile2025" className="inline-block bg-[#b8798c] hover:bg-[#a4697c] text-white font-bold py-2 px-6 rounded-full transition-all duration-300">
+            <Link to="/" className="inline-block bg-[#b8798c] hover:bg-[#a4697c] text-white font-bold py-2 px-6 rounded-full transition-all duration-300">
                 Back to Home
             </Link>
         </div>
