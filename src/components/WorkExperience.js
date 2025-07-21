@@ -104,10 +104,10 @@ export default function WorkExperience() {
       </div>
 
       <a
-          href="/profile2025/organizational-experience"
-          className="inline-block px-6 py-3 bg-[#4b4848] text-white font-semibold rounded hover:bg-[#a06074] transition duration-300 mt-24"
-        >
-          View Organizational Experience
+        href="/profile2025/organizational-experience"
+        className="inline-block px-6 py-3 bg-[#4b4848] text-white font-semibold rounded hover:bg-[#a06074] transition duration-300 mt-24"
+      >
+        View Organizational Experience
       </a>
 
       {showModal && (
